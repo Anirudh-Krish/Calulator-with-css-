@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const totalElement = document.querySelector('#total')
   const keys = document.querySelectorAll('.key')
 
+  
   const showTime = () => {
     const date = new Date()
     const h = date.getHours()
