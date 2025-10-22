@@ -3,5 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const switchTheme = ({ target: { checked } }) =>
     document.documentElement.setAttribute('data-theme', checked ? 'dark' : 'light')
 
+  
   input.addEventListener('change', switchTheme)
 })
