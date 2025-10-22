@@ -9,6 +9,7 @@
   --main-color: #64696d;
 }
 
+
 [data-theme="dark"] {
   --accent-color: #42C636;
   --body-bg-color: linear-gradient(#2c3e50, #34495e);
