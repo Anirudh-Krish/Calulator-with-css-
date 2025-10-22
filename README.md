@@ -51,23 +51,15 @@ Try it out now! The calculator is hosted on multiple platforms for your convenie
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://calculatorlightdarkmode.netlify.app)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://calculator-light-dark-mode-three.vercel.app/)
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - Inspired by modern UI/UX design principles
 - Built with pure vanilla JavaScript (no frameworks or libraries)
 - Icons from [Material Icons](https://fonts.google.com/icons)
 
-## 🤝 Contributing
+## Dev's note
 
-Contributions are always welcome! Feel free to submit issues and enhancement requests.
-
-## 📧 Contact
-
-Have questions or suggestions? Feel free to reach out!
+- Just a basic calculator app to see if i know the basics 
 
 
 
