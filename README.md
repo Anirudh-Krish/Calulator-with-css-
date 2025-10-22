@@ -43,8 +43,6 @@
 &nbsp;<a href="https://calculatorlightdarkmode.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
 &nbsp;<a href="https://calculator-light-dark-mode-three.vercel.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/vercel.png"></a>
 
-# 📕 License
-This project is under <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode/blob/main/LICENSE">MIT</a> license. 
 
 
 
